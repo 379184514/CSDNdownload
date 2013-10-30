@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="手机 电子书 手册 源码CSDN 下载频道 " />
+<meta content="手机 电子书 手册 源码 CSDN 下载频道 " name="keywords" />
+<link rel="stylesheet" type="text/css" href="/css/detail.css" /> 
+<script language="JavaScript" type="text/javascript" src="http://download.csdn.net/js/jquery-1.2.1.pack.js"></script>
+<script type="text/javascript" src="http://download.csdn.net/js/callback.js"></script>
+<script type="text/javascript" src="http://download.csdn.net/js/up.js"></script><script type='text/javascript' src='http://www.csdn.net/ggmm/csdn_ggmm.js'></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1076724771190722");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-1076724771190722", "download_downpage_bottom_760x90");</script><script type="text/javascript">  GA_googleFetchAds();</script> 
+    <script type="text/javascript">
+	$(document).ready(function(){
+	$(".list-item").mouseover(function() {$(this).addClass("over");}).mouseout(function() 
+	{$(this).removeClass("over");});
+	/*
+	$.getScript("http://ratings.csdn.net/index.php?c=service&m=getRate&domain=download.csdn.net&list=/source/418296|/source/1100945|/source/240206|/source/418299|/source/864262|", function(){
+		mkratelist();
+	});
+	*/
+});
+</script>
+    <link rel="stylesheet" type="text/css" href="http://download.csdn.net/ui/styles/default/list.css" />
+	<link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="http://search.download.csdn.net/rss/search/%E6%89%8B%E6%9C%BA/1"></link>
+    <title>手机 CSDN 下载频道 </title>
+    <link href="http://download.csdn.net/ui/styles/default/page.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="wrapper">
+<div id="innerWrapper">
+<link rel="stylesheet" href="http://hi.csdn.net/js/gray.css" type="text/css" media="screen" />
+<div id="header">
+<div style="margin:0 auto; width:1000px; overflow:hidden; border-top:5px solid #2d9bc0;">
+	<script src="http://csdnimg.cn/pubnav/js/pub_topnav.js" type="text/javascript" ></script>
+</div>
+
+        <div class="clear"></div>
+        <div class="logoMenu">
+        	<div class="logo"><img alt="" src="/images/download_logo.gif" /></div>
+            <div class="menu">
+            	<ul>
+<li><a href="http://download.csdn.net/"><span>首 页</span></a></li>
+<li><a href="http://download.csdn.net/sort/iscommend/all/"><span>推荐资源</span></a></li>
+<li><a href="http://download.csdn.net/sort/new/all/"><span>最新资源</span></a></li>
+<li><a href="http://u.download.csdn.net/upfile"><span><img src="/images/uparrow.gif" width="12" border="0" />上传资源</span></a></li>
+<li><a href="http://download.csdn.net/rank"><span>排行榜</span></a></li>
+<script type="text/javascript">
+function getCookie(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+  if(arr!=null)return unescape(arr[2]);return null;}
+		var user=getCookie("activeUserName");
+		if(user && user!="Guest")
+		{
+		document.write("<li><a href='http://"+user+".download.csdn.net/'><span>我的资源</span></a></li>")
+		document.write("<li><a href='http://hi.csdn.net/my.html'><span>我的空间</span></a></li>");
+		}else{
+		document.write("<li><a href='http://passport.csdn.net/UserLogin.aspx?from="+window.location.href+"' target=_blank><span>登录</span></a></li>")
+		document.write("<li><a href='http://passport.csdn.net/CSDNUserRegister.aspx' target=_blank><span>免费注册</span></a></li>");
+		}
+</script>
+
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+		
+
+
+
+
+
+<iframe frameborder="0" height="90" style="margin:0;padding:0;" width="1000" src="http://download.csdn.net/ggmm/151" scrolling="no"></iframe>
+<!--
+ <script type='text/javascript'>show_ads_zone(151);</script>
+--> 
+
+    <div id="mainWrapper">
+        <div id="pageContent">
+			<div id="innerContent">
+			<!--
+				<div id="centerColumn">
+				
+					<dl>						
+						<dt><strong>最新Tag</strong></dt>
+						<dd id="relativeTag">
+							<ul>							
+							</ul>
+						</dd>
+									</dl>
+				</div>
+				-->
+				
+				<div id="searchbar">
+					<form action="/search.php" method="post" name="form1" id="form1" onsubmit="return yz(this);" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<img alt="" src="http://download.csdn.net/ui/images/SearchZoom.gif" />
+						<input name="tagff" type="text" class="key" id="tagff"  value="手机" maxlength="50"/>
+						
+						<input type="image" src="http://download.csdn.net/ui/images/SearchBanner.gif" />
+										 <a href="http://search.download.csdn.net/advsearch" style="text-decoration:underline; color:#003366; ">高级搜索</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>已有资源总数： <em>1423562</em>个</span>
+
+				  </form>
+ 
+				</div>
+				
+				<div class="listPageCaption"><img alt="" src="http://download.csdn.net/ui/images/iconListPageCaption.gif" />正在浏览与"<strong>手机</strong>"相关的文件&nbsp;&nbsp;&nbsp;&nbsp; 				
+									<a href="/rss/search/%E6%89%8B%E6%9C%BA/1"><img src="http://download.csdn.net/ui/images/rss_2.gif"  /></a>
+								</div>
+				
+				<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script>
+  google.load('ads.search', '1');
+  google.setOnLoadCallback(init);
+  function init() {
+    var options1 = {
+      'pubId' : 'pub-1076724771190722',
+      'query' : '手机',
+      'container' : 'myfavorite',
+      'channel' : 'Download Search',
+      'number' : 4,
+      'colorTitleLink' : '#006699',
+      'colorBackground' : '#FFFFFF'
+    };
+    var dynamicAd = new google.ads.search.Ad(options1);
+  }
+</script>
+<div id="myfavorite"></div>				
+												<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/418296"></em>
+					<br/>
+					有<em id="clicknum418296">11</em>人下载 
+					</p>
+					</div>
+					
+					<div class="right">
+						<h3><a href="http://download.csdn.net/source/418296">手机游戏手机游戏</a>&nbsp;&nbsp;<img src="/ui/images/money.gif" />1	</h3>
+						<p>手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏</p>
+						
+						<div><em>Tag：</em>
+						 <a href="http://download.csdn.net/sort/tag/%E6%89%8B%E6%9C%BA">手机</a>&nbsp;&nbsp;
+																	
+						 &nbsp; <em>用户：</em><a href="http://mxczmxcz.download.csdn.net" >mxczmxcz</a> &nbsp; <em>发布日期：2008-04-17 15:20 </em> 
+						 
+						 </div>
+					</div>
+				</div>
+								<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/1100945"></em>
+					<br/>
+					有<em id="clicknum1100945">14</em>人下载 
+					</p>
+					</div>
+					
+					<div class="right">
+						<h3><a href="http://download.csdn.net/source/1100945">手机key手机key</a>&nbsp;&nbsp;<img src="/ui/images/money.gif" />2	</h3>
+						<p>手机key手机key手机key手机key</p>
+						
+						<div><em>Tag：</em>
+						 <a href="http://download.csdn.net/sort/tag/%E6%89%8B%E6%9C%BAkey">手机key</a>&nbsp;&nbsp;
+																	
+						 &nbsp; <em>用户：</em><a href="http://q8520q.download.csdn.net" >q8520q</a> &nbsp; <em>发布日期：2009-03-13 00:13 </em> 
+						 
+						 </div>
+					</div>
+				</div>
+								<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/240206"></em>
+					<br/>
+					有<em id="clicknum240206">10</em>人下载 
+					</p>
+					</div>
+					
+					<div class="right">
+						<h3><a href="http://download.csdn.net/source/240206">手机防盗手机防盗</a>&nbsp;&nbsp;<img src="/ui/images/money.gif" />10	</h3>
+						<p>手机防盗手机防盗手机防盗手机防盗</p>
+						
+						<div><em>Tag：</em>
+						 <a href="http://download.csdn.net/sort/tag/%E6%89%8B%E6%9C%BA%E9%98%B2%E7%9B%97">手机防盗</a>&nbsp;&nbsp;
+																	
+						 &nbsp; <em>用户：</em><a href="http://limengxy.download.csdn.net" >limengxy</a> &nbsp; <em>发布日期：2007-09-01 22:43 </em> 
+						 
+						 </div>
+					</div>
+				</div>
+								<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/418299"></em>
+					<br/>
+					有<em id="clicknum418299">113</em>人下载 
+					</p>
+					</div>
+					
+					<div class="right">
+						<h3><a href="http://download.csdn.net/source/418299">手机游戏手机游戏</a>&nbsp;&nbsp;<img src="/ui/images/money.gif" />0	</h3>
+						<p>手机游戏手机游戏手机游戏手机游戏手机游戏手机游戏</p>
+						
+						<div><em>Tag：</em>
+						 <a href="http://download.csdn.net/sort/tag/%E5%9C%86%E6%9F%B1%E9%BD%BF%E8%BD%AE%E8%AE%A1%E7%AE%97+%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F">圆柱齿轮计算 手机游戏手机游戏</a>&nbsp;&nbsp;
+																	
+						 &nbsp; <em>用户：</em><a href="http://mxczmxcz.download.csdn.net" >mxczmxcz</a> &nbsp; <em>发布日期：2008-04-17 15:20 </em> 
+						 
+						 </div>
+					</div>
+				</div>
+								<div class="list-item">
+					<div class="left" >
+					<div class="prop"></div><p><em id="/source/864262"></em>
+					<br/>
+					有<em id="clicknum864262">46</em>人下载 
+					</p>
+					</div>
+					
+					<div class="right">
+						<h3><a href="http://download.csdn.net/source/864262">手机GetMaster</a>&nbsp;&nbsp;<img src="/ui/images/money.gif" />3	</h3>
+						<p>一个手机用的软件，可以方便的用来进行手机文件以及刷机等，适合摩托罗拉等手机。</p>
+						
+						<div><em>Tag：</em>
+						 <a href="http://download.csdn.net/sort/tag/%E6%89%8B%E6%9C%BA">手机</a>&nbsp;&nbsp;
+																	
+						 &nbsp; <em>用户：</em><a href="http://timsoul.download.csdn.net" >timsoul</a> &nbsp; <em>发布日期：2008-12-12 20:31 </em> 
+						 
+						 </div>
+					</div>
+				</div>
+												<div>
+
+				</div>
+				<div class="pagination">
+				    &nbsp;<b>1</b>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/2">2</a>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/3">3</a>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/4">4</a>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/5">5</a>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/6">6</a>&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/2">下一页</a>&nbsp;&nbsp;<a href="http://search.download.csdn.net/search/%E6%89%8B%E6%9C%BA%5Efield%3D%2A/1929">末页</a>				</div>
+			</div>
+        </div>
+		
+		<div id="sidebar"><dl><dd>
+		 		<a href=http://download.csdn.net/sort/tag/java>java</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/c%252B%252B><b>c++ </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/C%23><b>C# </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/linux>linux</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/c%E8%AF%AD%E8%A8%80><b>c语言 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E5%8D%95%E7%89%87%E6%9C%BA><b>单片机 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%95%99%E7%A8%8B>教程</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/pdf><b>pdf </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/matlab>matlab</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%BA%90%E7%A0%81>源码</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/asp.net>asp.net</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/C><b>C </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/SQL>SQL</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%BA%90%E4%BB%A3%E7%A0%81>源代码</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/Windows><b>Windows </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E7%BC%96%E7%A8%8B><b>编程 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/JSP><b>JSP </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/Oracle>Oracle</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%95%B0%E6%8D%AE%E5%BA%93><b>数据库 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E4%B8%AD%E6%96%87>中文</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/JavaScript>JavaScript</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/VC><b>VC </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/asp>asp</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E7%AD%94%E6%A1%88>答案</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/API><b>API </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/vb><b>vb </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/Visual>Visual</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E7%AE%97%E6%B3%95><b>算法 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84>数据结构</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E7%A0%B4%E8%A7%A3>破解</a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E8%AF%BE%E4%BB%B6><b>课件 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/%E6%B3%A8%E5%86%8C%E6%9C%BA><b>注册机 </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/jQuery><b>jQuery </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/.net><b>.net </b></a>&nbsp;&nbsp; <a href=http://download.csdn.net/sort/tag/php>php</a>&nbsp;&nbsp; 		</dd>
+			<dt>本周热点资源</dt>
+			<dd>
+			    <ul>
+											<li><a href="http://download.csdn.net/source/2312882">C语言实例精粹 图书管理系统 成绩管理系统</a></li>
+											<li><a href="http://download.csdn.net/source/2312720">贪心算法,解释的很详细</a></li>
+											<li><a href="http://download.csdn.net/source/2316631">正则表达式30分钟入门教程</a></li>
+											<li><a href="http://download.csdn.net/source/2320776">Javascript版《植物大战僵尸》试玩版</a></li>
+											<li><a href="http://download.csdn.net/source/2316191">PDF电子书《Linux设备驱动开发详解》</a></li>
+											<li><a href="http://download.csdn.net/source/2312737">软件工程-超市管理系统设计</a></li>
+											<li><a href="http://download.csdn.net/source/2320306">一个画流程图的简单工具</a></li>
+											<li><a href="http://download.csdn.net/source/2320361">C#+SQL server中小型信息系统开发实例精选</a></li>
+
+											<li><a href="http://download.csdn.net/source/2324096">Java课件（初学者）</a></li>
+											<li><a href="http://download.csdn.net/source/2323581">非常实用的c语言编程技巧</a></li>
+											<li><a href="http://download.csdn.net/source/2316116">一个用c#实现飞信的例子</a></li>
+											<li><a href="http://download.csdn.net/source/2313042">Windows Mobile开发实例</a></li>
+											<li><a href="http://download.csdn.net/source/2316824">集群、高性能计算的基础学习资料</a></li>
+											<li><a href="http://download.csdn.net/source/2320263">《MATLAB程序设计教程》电子教案</a></li>
+											<li><a href="http://download.csdn.net/source/2314938">深度对比Oracle与SQL Server</a></li>
+											<li><a href="http://download.csdn.net/source/2323841">C#从入门到精通全部源码3</a></li>
+											<li><a href="http://download.csdn.net/source/2312859">功能、性能测试流程图</a></li>
+							        </ul>
+			</dd>
+			<dt>本周用户贡献排行榜</dt>
+			<dd>
+			    <ul>
+				<table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" class="STYLE1">
+									   									  <tr>
+										<td><a href="http://fosoyo.download.csdn.net" >fosoyo</a></td>
+										<td><div align="right"><span class="STYLE2">41</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://j1582830.download.csdn.net" >j1582830</a></td>
+										<td><div align="right"><span class="STYLE2">38</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://A0535.download.csdn.net" >A0535</a></td>
+										<td><div align="right"><span class="STYLE2">37</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://ylianyang.download.csdn.net" >ylianyang</a></td>
+										<td><div align="right"><span class="STYLE2">31</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://wwei135476.download.csdn.net" >wwei135476</a></td>
+										<td><div align="right"><span class="STYLE2">28</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://lleheaven.download.csdn.net" >lleheaven</a></td>
+										<td><div align="right"><span class="STYLE2">26</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://zxl1989.download.csdn.net" >zxl1989</a></td>
+										<td><div align="right"><span class="STYLE2">24</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://lzq0901071302.download.csdn.net" >lzq0901071302</a></td>
+										<td><div align="right"><span class="STYLE2">24</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://huaxia007.download.csdn.net" >huaxia007</a></td>
+										<td><div align="right"><span class="STYLE2">23</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://linrong1957.download.csdn.net" >linrong1957</a></td>
+										<td><div align="right"><span class="STYLE2">23</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://wzy126126.download.csdn.net" >wzy126126</a></td>
+										<td><div align="right"><span class="STYLE2">22</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://madebychina.download.csdn.net" >madebychina</a></td>
+										<td><div align="right"><span class="STYLE2">21</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://changjin642.download.csdn.net" >changjin642</a></td>
+										<td><div align="right"><span class="STYLE2">20</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://ywuwu.download.csdn.net" >ywuwu</a></td>
+										<td><div align="right"><span class="STYLE2">20</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://kwenge.download.csdn.net" >kwenge</a></td>
+										<td><div align="right"><span class="STYLE2">19</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://chenbo26316450.download.csdn.net" >chenbo26316450</a></td>
+										<td><div align="right"><span class="STYLE2">18</span>个</div></td>
+									  </tr>
+									  										  <tr>
+										<td><a href="http://jcr8745dqy7.download.csdn.net" >jcr8745dqy7</a></td>
+										<td><div align="right"><span class="STYLE2">18</span>个</div></td>
+									  </tr>
+									  										 
+							  </table>
+		        </ul>
+			</dd>
+			</dl>
+	  </div>
+		<div class="clear"></div>
+    </div>      
+<script>document.write("<img src=http://counter.csdn.net/pv.aspx?id=160 border=0 width=0 height=0>");</script>
+    <div id="pubfooter">
+<script src="http://csdnimg.cn/pubfooter/js/publib_footer.js" type="text/javascript"></script>
+   
+   </div>
+<script src="http://download.csdn.net/js/counter.js" type="text/javascript"></script>
+
+</div>
+</div>
+</body>
+</html>
+

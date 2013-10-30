@@ -1,0 +1,272 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\CSDN批量迅雷下载.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\CSDN批量迅雷下载.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 CSDN批量迅雷下载"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "CSDN批量迅雷下载 1.0 版",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2010",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_CSDN_DIALOG DIALOGEX 0, 0, 392, 239
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "CSDN批量迅雷下载 - By 王安林 379184514 2010.2.9"
+FONT 9, "宋体"
+BEGIN
+    LTEXT           "关键词",IDC_STATIC,13,40,30,11
+    EDITTEXT        IDC_EDIT_search,46,37,172,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "查询",IDC_BUTTON_gosearch,236,36,29,18
+    CONTROL         "List1",IDC_LIST1,"SysListView32",LVS_REPORT | WS_BORDER | 
+                    WS_TABSTOP,7,80,371,152
+    PUSHBUTTON      "下一批",IDC_bt_next,188,60,28,14
+    PUSHBUTTON      "上一批",IDC_bt_fw,143,60,28,14
+    LTEXT           "页数:",IDC_page,7,61,57,13,WS_BORDER
+    CONTROL         "刷分",IDC_CHECK_test,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,266,64,32,10
+    PUSHBUTTON      "添加任务到迅雷",IDC_BUTTON_goTD,298,30,70,26
+    LTEXT           "页数/批",IDC_STATIC,113,66,29,8
+    CONTROL         "全部",IDC_CHECK_ALL,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,223,64,32,10
+    COMBOBOX        IDC_COMBO_pagepre,77,62,31,61,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "评分",IDC_BUTTON1,344,60,30,14
+    PUSHBUTTON      "清除",IDC_BUTTON2,301,60,33,14
+    LTEXT           "积分",IDC_STATIC_score,7,7,256,12,WS_BORDER
+    PUSHBUTTON      "刷新积分",IDC_BUTTON3,297,7,41,14
+    PUSHBUTTON      "登录",IDC_BUTTON_login,349,7,26,14
+END
+
+IDD_CSDNLOGIN_DIALOG DIALOGEX 0, 0, 112, 140
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "CSDN登录"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT_USER,39,7,67,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_PASSWORD,39,28,67,14,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_CODE,39,49,67,14,ES_AUTOHSCROLL
+    LTEXT           "用户名:",IDC_STATIC,7,10,28,9
+    LTEXT           "密  码:",IDC_STATIC,7,31,28,9
+    LTEXT           "验证码:",IDC_STATIC,7,51,28,9
+    LTEXT           "单击重新获得验证码 ",IDC_STATIC1,20,104,76,8
+    PUSHBUTTON      "登录",IDC_BTN_LOGIN,7,115,46,18
+    PUSHBUTTON      "退出 ",IDC_BTN_EXIT,61,115,46,18
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "CSDN批量迅雷下载 Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "CSDN批量迅雷下载\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2010\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "CSDN批量迅雷下载.EXE\0"
+            VALUE "ProductName", "CSDN批量迅雷下载 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_CSDN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 385
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 232
+    END
+
+    IDD_CSDNLOGIN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 107
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 133
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_CSDN_DIALOG DLGINIT
+BEGIN
+    IDC_COMBO_pagepre, 0x403, 2, 0
+0x0032, 
+    IDC_COMBO_pagepre, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_pagepre, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_pagepre, 0x403, 3, 0
+0x3531, "\000" 
+    IDC_COMBO_pagepre, 0x403, 3, 0
+0x3032, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 CSDN批量迅雷下载(&A)..."
+END
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\CSDN批量迅雷下载.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
